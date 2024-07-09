@@ -1,3 +1,7 @@
+# 🗽📰🚏🗞️🏙️📇Top NY Times Articles
+A React application that dynamically displays the top New York Times articles with filtering options, responsive design, and pagination, ensuring an optimal and interactive user experience.
+<img width="1440" alt="Screenshot 2024-07-09 at 2 26 07 PM" src="https://github.com/echou024/TopNYTimesArticles/assets/97807909/b95178e1-b33f-4408-b71b-f8df4c595c57">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
