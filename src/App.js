@@ -10,7 +10,7 @@ const App = () => {
   const [timeFrame, setTimeFrame] = useState('week');
   const [numArticles, setNumArticles] = useState(6);
 
-  const apiKey = 'fNDI0Uw3Gz07mdnMZNIvhEbYSz2N24za';
+  const apiKey = '[secret-key]';
   const timeframeKey = {
     day: '1',
     week: '7',
